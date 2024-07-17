@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">NavTest</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="change_language">Change Language</string>
+    <string name="disable_dark_mode">Disable Dark Mode</string>
+    <string name="enable_dark_mode">Enable Dark Mode</string>
+    <string name="update_ui">Update UI</string>
+    <string name="except">"except"</string>
+    <string name="compare">compare</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_screen">الصفحة الرئسية</string>
+    <string name="change_language">غير اللغة</string>
+    <string name="disable_dark_mode">قفل وضع المظلم</string>
+    <string name="enable_dark_mode">تفعيل وضع المظلم</string>
+    <string name="update_ui">حدث الواجهة</string>
+    <string name="except">"المفروض"</string>
+    <string name="compare">قارن</string>
+</resources>
